@@ -1,4 +1,6 @@
-# tranning-spring-boot\
-Phase 1 :
--Structure
--Menu Item CRUD
+## Restaurent Management
+### Phase 1
+- Structure source
+- Menu Item CRUD
+
+
